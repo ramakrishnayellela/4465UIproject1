@@ -1,0 +1,63 @@
+body nav{
+    background-color: aqua;
+}
+body nav ul{
+    list-style-type:none;
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+    margin:10;
+}
+nav ul li a{
+    color:rgb(7, 0, 1);
+}
+header{
+    background-color: rgb(230, 159, 28);
+}
+section{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    background-color: chocolate;
+    color: rgb(12, 12, 12);
+    background-size: 200px;
+}
+nav ul li{
+    text-align: right;
+}
+footer{
+    background-color: rgb(206, 42, 94);
+}
+.udemy{
+    margin-left: 20px;
+    padding-left: 10px;
+}
+.edureka{
+    margin-left: 15px;
+    padding-top: 10px;
+}
+.coursera{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.gfg{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.jtp{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.log{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.khan{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.mainimg{
+    padding-bottom: 40px;
+}
